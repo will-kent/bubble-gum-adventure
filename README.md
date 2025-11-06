@@ -1,1 +1,2 @@
-# bubble-gum-adventure
+# The Amazing Bubble Gum Caper
+## Introduction
